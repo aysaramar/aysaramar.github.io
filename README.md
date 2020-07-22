@@ -1,1 +1,0 @@
-# aysaramar.github.io
