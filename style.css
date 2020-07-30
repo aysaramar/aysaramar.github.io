@@ -175,6 +175,28 @@ ul {
     padding-left: 0;
 }
 
+h1 {
+    text-align: center;
+    background-color: aqua;
+}
+
+.aysar {
+    display: block;
+    padding-right: 50%;
+    width: 150%;
+    background-color: hotpink;
+}
+
+p {
+    text-align: center;
+    background-color: gold;
+}
+
+h3 {
+    text-align: center;
+    background-color: greenyellow;
+}
+
 
 /*Media Query für große Geräte*/
 
