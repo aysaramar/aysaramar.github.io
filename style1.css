@@ -1,0 +1,54 @@
+body {
+    background-color: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p {
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+/* class in css wird mit Punkt (.)*/
+
+.rot {
+    background-color: black;
+}
+
+
+/* id in css wird mit Raute (#) angesprochen*/
+
+#horst {
+    background-color: yellow;
+    color: #000;
+}
+
+
+/* 
+Die Klasse Rahmen  soll einen Rahmen mit 1px Stärke und schwarz sein
+ und durchgezogen Line
+*/
+
+.rahmen {
+    border: 3px solid black;
+}
+
+
+/* id susi soll hintergrund grün wenden*/
+
+#susi {
+    background-color: green;
+}
+
+
+/*
+Definiere eine Klasse, die rote Schrift macht
+Diese Klasse bitte der Überschrift und dem ersten Paragraph zuweisen
+
+*/
+
+.roteschrift {
+    color: white;
+}
